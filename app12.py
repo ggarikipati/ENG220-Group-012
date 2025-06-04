@@ -16,7 +16,6 @@ st.markdown("""
 This project visualizes data from the **Gun Violence Archive**, offering insights into patterns and frequency of gun-related incidents in the United States.  
 Users can explore variables such as **incident dates**, **locations**, **victim counts**, and other dimensions to better understand gun violence trends.
 
-The tool enables interactive filtering and plotting to help users draw patterns and insights from the dataset.
 ---
 """)
 
